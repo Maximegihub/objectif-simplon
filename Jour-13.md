@@ -5,9 +5,9 @@
 ## Vendredi 1/09/2021
 
 ### CSS : 
-  * [x] Comprendre le fonctionnement de Flexbox
+  * [ ] Comprendre le fonctionnement de Flexbox
     * [ ] Faire le parcours Flexbox Froggy (https://flexboxfroggy.com/#fr)
-  * [x] Comprendre le fonctionnement de CSS Grid
+  * [ ] Comprendre le fonctionnement de CSS Grid
     * [ ] Faire le parcours Grid Garden (https://cssgridgarden.com/#fr)
 
 
