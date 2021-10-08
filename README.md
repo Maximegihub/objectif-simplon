@@ -1,1 +1,1 @@
-Daily objectif formation : ms développeur intégrateur Simplon 
+Daily objectif formation : Module de spécialisation développeur intégrateur Simplon 
