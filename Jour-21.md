@@ -24,4 +24,4 @@
 
   * [x] Revoir le mécanisme de tri par selection (Selection Sort)
   * [x] Revoir le mécanisme de tri par tas (Heap Sort)
-  * [x] Revoir le mécanisme de tri fusion (Merge Sort)
+  * [x] Revoir le mécanisme de tri fusion (Merge Sort
