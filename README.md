@@ -1,1 +1,1 @@
-Daily objectif formation : Module de spécialisation développeur intégrateur Simplon 
+Objectif Journalier formation ==> ***Module de spécialisation développeur intégrateur Simplon*** <==
